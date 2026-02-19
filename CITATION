@@ -1,0 +1,10 @@
+## 📚 Citation
+
+If you use this dataset in your research, please cite:
+
+@inproceedings{monpara2025flood,
+  author    = {Meet Monpara},
+  title     = {Stranded Human Detection in Flooded Environments from UAV Imagery},
+  booktitle = {IEEE International Conference on Robotic Computing (RoboticCC)},
+  year      = {2025}
+}
