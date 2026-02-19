@@ -1,0 +1,24 @@
+# H-YOLO Flood Dataset
+
+UAV-based stranded person detection dataset for flooded environments.
+
+## Dataset Download
+
+To download data:
+
+Download and run download_real_data.py
+
+## Details
+- 501 real-world UAV images
+- YOLO annotations
+- Train/Val/Test split: 70/10/20
+- Class: person
+
+## Structure
+data/
+ ├── images/{train,val,test}
+ ├── labels/{train,val,test}
+ └── data.yaml
+
+## Use Case
+person detection in flood disaster response using UAV imagery.
