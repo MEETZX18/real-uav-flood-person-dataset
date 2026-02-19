@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['person']
+
+roboflow:
+  workspace: meet-utouk
+  project: final_people_detection_in_flood-wyxzo
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/meet-utouk/final_people_detection_in_flood-wyxzo/dataset/1
